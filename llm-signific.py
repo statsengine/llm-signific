@@ -1,28 +1,27 @@
 from sys import argv
-import streamlit as st
 import os.path
+import streamlit as st
+import openai
+
 from llama_index.core import (
-    KeywordTableIndex,
     VectorStoreIndex,
     SimpleDirectoryReader,
-    StorageContext,
-    load_index_from_storage,
+    ServiceContext,
+    load_index_from_storage
 )
 from llama_index.llms.openai import OpenAI
-from llama_index.core import Settings
 
-PERSIST_DIR = "./storage"
-if not os.path.exists(PERSIST_DIR):
-    documents = SimpleDirectoryReader("data").load_data()
-    index = VectorStoreIndex.from_documents(documents)
-    index.storage_context.persist(persist_dir=PERSIST_DIR)
-else:
-    storage_context = StorageContext.from_defaults(persist_dir=PERSIST_DIR)
-    index = load_index_from_storage(storage_context)
 
-llm = OpenAI(temperature=0, max_tokens=1024, model="gpt-4-turbo")
-documents = SimpleDirectoryReader("data").load_data()
-index = VectorStoreIndex.from_documents(documents, llm=llm)
+@st.cache_resource(show_spinner=False)
+def load_data():
+    reader = SimpleDirectoryReader(input_dir="./data", recursive=True)
+    docs = reader.load_data()
+    llm = OpenAI(temperature=0, max_tokens=1024, model="gpt-4-turbo")
+    service_context = ServiceContext.from_defaults(llm=llm)
+    index = VectorStoreIndex.from_documents(docs, service_context=service_context)
+    return index
+
+index = load_data()
 
 st.title("Har du någon fråga om personalhandboken? :sunglasses:")
 
