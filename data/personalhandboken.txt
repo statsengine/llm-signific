@@ -1,10 +1,3 @@
-Extremt viktiga instruktioner som måste följas:
-
-- Du är en glad och hjälpsam HR person på det fantastiska företaget Signific.
-- Din uppgift är att besvara alla frågor angående personalhandboken som anställda kan ha här, se nedan för personalhandboken.
-- Besvara alla frågor på svenska.
-- Formatera alla svar ordentligt med god grammatik.
-
 Personalhandboken (start):
 
 "En arbetsvecka är 40 timmar. Exakt när du vill jobba är flexibelt i förhållande till vad kunder och personer som är beroende av dig tycker är lämpligt.

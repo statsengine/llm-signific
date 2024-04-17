@@ -1,10 +1,13 @@
 import streamlit as st
+import regex as re
 from llama_index.core import (
     VectorStoreIndex,
     SimpleDirectoryReader,
     ServiceContext,
 )
 from llama_index.llms.openai import OpenAI
+
+invalid_question_response = 'Jag kunde inte tolka din fråga, var god försök igen'
 
 @st.cache_resource(show_spinner=False)
 def load_data():
@@ -21,14 +24,17 @@ st.title("Har du personalhandboksfrågor? :sunglasses:")
 
 def handle_enter():
     user_input = st.session_state.text_input_value
-    with spinner_placeholder.container():
-        st.spinner("Processing...")
-        try:
-            query_engine = index.as_query_engine()
-            response = query_engine.query(user_input).response
-            st.session_state.response = response
-        except Exception as e:
-            st.session_state.response = f"Failed to process the query: {e}"
+    if bool(re.match(r'^[a-zA-Z0-9\s\?\å\ä\öÅÄÖ]*$', user_input)):
+        with spinner_placeholder.container():
+            st.spinner("Processing...")
+            try:
+                query_engine = index.as_query_engine()
+                response = query_engine.query(user_input).response
+                st.session_state.response = response
+            except Exception as e:
+                st.session_state.response = f"{invalid_question_response}: {e}"
+    else:
+        st.session_state.response = f"{invalid_question_response}."
 
 text_input_value = st.text_input("Ställ en fråga och tryck enter:", placeholder="Lösenord till WiFi?", key='text_input_value', on_change=handle_enter)
 
