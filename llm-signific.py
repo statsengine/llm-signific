@@ -7,10 +7,8 @@ from llama_index.core import (
     VectorStoreIndex,
     SimpleDirectoryReader,
     ServiceContext,
-    load_index_from_storage
 )
 from llama_index.llms.openai import OpenAI
-
 
 @st.cache_resource(show_spinner=False)
 def load_data():
@@ -23,7 +21,7 @@ def load_data():
 
 index = load_data()
 
-st.title("Har du någon fråga om personalhandboken? :sunglasses:")
+st.title("Har du personalhandboksfrågor? :sunglasses:")
 
 def handle_enter():
     user_input = st.session_state.text_input_value
@@ -36,7 +34,7 @@ def handle_enter():
         except Exception as e:
             st.session_state.response = f"Failed to process the query: {e}"
 
-text_input_value = st.text_input("Ställ en fråga och tryck enter:", key='text_input_value', on_change=handle_enter)
+text_input_value = st.text_input("Ställ en fråga och tryck enter:", placeholder="Lösenord till WiFi?", key='text_input_value', on_change=handle_enter)
 
 spinner_placeholder = st.empty()
 
