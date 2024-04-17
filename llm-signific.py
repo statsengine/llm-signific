@@ -1,8 +1,4 @@
-from sys import argv
-import os.path
 import streamlit as st
-import openai
-
 from llama_index.core import (
     VectorStoreIndex,
     SimpleDirectoryReader,
