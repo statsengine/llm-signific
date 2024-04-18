@@ -12,14 +12,14 @@ from llama_index.llms.openai import OpenAI
 
 invalid_question_response = 'Jag kunde inte tolka din fråga, var god försök igen'
 
-with open('./data/instructions.txt', 'r') as file:
-    instructions = file.read().replace('\n', '')
+with open('./data/personalhandbok/instruktioner.txt', 'r') as file:
+    instructions = file.read()
 
 tab1, tab2 = st.tabs(["Personalhandbokshjälpare", "TBA"])
 
 @st.cache_resource(show_spinner=False)
 def load_data():
-    PERSIST_DIR = "./storage"
+    PERSIST_DIR = "./storage/personalhandbok"
 
     if not os.path.exists(PERSIST_DIR):
         os.makedirs(PERSIST_DIR, exist_ok=True)
@@ -37,7 +37,7 @@ def load_data():
 
 def get_qa_prompt(instructions, user_input):
     return (
-        "Instruktioner:.\n"
+        "Instruktioner:\n"
         "---------------------\n"
         f"{instructions}\n"
         "---------------------\n"
