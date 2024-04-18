@@ -1,4 +1,4 @@
-Personalhandboken (start):
+Personalhandboken start:
 
 "En arbetsvecka är 40 timmar. Exakt när du vill jobba är flexibelt i förhållande till vad kunder och personer som är beroende av dig tycker är lämpligt.
 
@@ -52,31 +52,18 @@ Hos våra kunder kan det vara annorlunda dock, så berätta och stäm av detta i
 Lediga dagar 2024
 
     1 januari (heldag) Nyårsdagen 
-
     5 januari (halvdag) Dagen innan trettondag jul 
-
     28 mars (halvdag) Skärtorsdagen 
-
     29 mars (heldag) Långfredagen
-
     1 april (heldag) Annandag påsk
-
     30 april (halvdag) Dagen innan första maj (Valborgsmässoafton)
-
     1 maj (heldag) Första maj 
-
     8 maj (halvdag) Dagen innan kristi himmelsfärd
-
     9 maj (heldag) Kristi Himmelsfärd
-
     5 juni (halvdag) Dagen innan Sveriges nationaldag
-
     6 juni (heldag) Sveriges nationaldag 
-
     1 november (halvdag) Dagen innan alla helgons dag 
-
     25 december (heldag) Juldagen 
-
     26 december (heldag) Annandag jul 
 
 
@@ -141,76 +128,54 @@ I många uppdrag behöver vi även tidrapportera i kunders eller konsultmäklare
 Tidrapportering i Wints mobilapp:
 
     Logga in med ditt personnummer samt verifiera med Bank ID.    
-
     Från startskärmen välj "tidrapportering".     
-
     Välj "vecka"
-
     Välj "redigera"
-
     Välj "dag"
-
     Fyll i antal timmar
-
     För att rapportera tid på uppdrag - välj "projekt" + ditt uppdrag i listan.
-
--  För att rapportera frånvaro (sjukdom, semester, vab etc) välj "avvikelse".
-
--  För att rapportera intern tid (onboarding, rekrytering, marknadsaktivitet, konferens etc välj aktuella tidstypen i listan.
-
-     Nöjd med rapporteringen?  🥳 Välj "spara" och sedan "lås vecka". 
-
+    För att rapportera frånvaro (sjukdom, semester, vab etc) välj "avvikelse".
+    För att rapportera intern tid (onboarding, rekrytering, marknadsaktivitet, konferens etc välj aktuella tidstypen i listan.
+    Nöjd med rapporteringen?  🥳 Välj "spara" och sedan "lås vecka". 
     Done!
 
 
 När du inte har något uppdrag
 
 Ibland händer det att du inte har något konsultuppdrag. Det är ganska vanligt när du börjar din anställning men kan också ske i skarvar mellan uppdrag.
-
 Generellt gäller att synka med din chef om vilka arbetsuppgifter du kan göra, samt vilken kontorsnärvaro som förväntas under obelagda perioder.
-
 Som det mesta inom Signific gäller det att ta eget initiativ och ansvar för att skapa värde, även när du är obelagd.
 
 Exempel på arbetsuppgifter du kan jobba med:
 
     Gå igenom din konsultprofil och se till att den är uppdaterad med de senaste uppdragen och kompetenserna. Stäm av med Martina om det behövs både en svensk och engelsk version av din konsultprofil.
-
     Läs på om ett ämne, process eller teknik som du vill bli bättre inom. Skriv en artikel, håll ett webinar eller håll en intern kompetensdragning.
-
     Gå en utbildning, t.ex. i DataCamp.
-
     Kolla med Lovisa om du kan ge stöd inom HR- eller kontor. Det kan t.ex. handla om om att arra interna som externa events, kontorstasks eller utvecklingsarbete inom HR.  
-
     Kolla med Martina om du kan ge stöd i säljarbetet. Det kan t.ex. handla om offertarbete, ta fram presentationer eller att delta i säljmöten.
-
     Kolla med Max eller Daniel om du kan ge stöd i rekryteringsarbetet. Det kan t.ex. handla om sourcing, ta fram eller förbättra caseuppgifter eller att träffa kandidater.
 
-
-
 Vår samlingsplats
+
 Vi har som ambition att Significs anställda ska vilja välja att jobba från kontoret när de kan. För att lyckas med det tror vi på en kombination av trivsam arbetsmiljö, smidighet och olika typer av events. Alla synpunkter på förbättringar är såklart välkomna. Antingen i Slack-kanalen #kontoret eller direkt till Lovisa.
 
 Larm
+
 Den som lämnar kontoret sist på dagen behöver larma och låsa kontoret. Gallerdörren ska stängas och låsas vid både över och underlås och lika så gäller ytterdörren, lås både över och underlås. 
-
 Viktigt: För att inte larmet ska gå när vi larmar av måste dörren till konferensrummet vara helt stängd när du larmar på. Detta är väldigt viktigt för att undvika extra admin och kostnader för utryckning. 
-
 För att larma av och på: slå in koden 3689.
-
 Observera att siffrorna anges i ett intervall om fyra siffror. Råkar en t.ex. slå in en fel första siffra måste en slå in tre till, innan en slår in den korrekta fyrsiffriga koden.
-
-Dörren som måste vara stängd när en larmar på 👇
+Dörren som måste vara stängd när en larmar på.
 
 
 Trivsel
 
 Vi tar såklart ett gemensamt ansvar i att plocka undan kaffekoppar, matlådor, tomburkar, sätta på kaffe, plocka in och ur diskmaskinen etc.
-
 Kom ihåg att använda återvinningskärlen för tomglas, burkar, papper och plast, etc då vi betalar för att Hemfrid ska tömma dem. Ställ alltså inte skräp, tomburkar etc i lokalen.
-
-Den som lämnar kontoret sist på dagen får gärna ta en koll så att diskmaskinen är igång 🥰
+Den som lämnar kontoret sist på dagen får gärna ta en koll så att diskmaskinen är igång.
 
 Säkerhet och stölder
+
 Som många andra arbetsplatser har vi haft stölder på kontoret. Det gäller även när t.ex. dyr hårdvara legat undanplockat och ej direkt synligt. Undvik därför att lämna kvar värdesaker över natten på kontoret. Det vill säga datorer, mobiltelefoner och hörlurar.
 
 Viktigt: När du välkomnar eller släpper in besökare, fråga alltid vem de ska träffa och följ personen hela vägen tills den personen har tagit hand om gästen.
@@ -225,18 +190,24 @@ Om en önskar låsa in hårdvara i över natten/helg/vid event på kontoret finn
 Brandsäkerhet 
 Vid händelse av brand, eller om vi av någon annan anledning behöver utrymma kontoret så är vår återsamlingsplats direkt utanför huvudingången (Sankt Paulsgatan 1) och över gatan.
 
-
 Vid brand gäller följande:
 
-
+Rädda dig själv och andra i din närhet utan att ta för stora risker
 Rädda dig själv och andra i din närhet utan att ta för stora risker
 
+    Rädda dig själv och andra i din närhet utan att ta för stora risker
+
+Varna personer som kan vara i fara
 Varna personer som kan vara i fara
 
+    Varna personer som kan vara i fara
+
+Larma räddningstjänst 112
 Larma räddningstjänst 112
 
-Släck branden om det är möjligt
+    Larma räddningstjänst 112
 
+    Släck branden om det är möjligt
 
 Det finns  3 st pulversläckare på kontoret samt brandfilt i det stora köket. 
 
@@ -244,11 +215,9 @@ Sopor, avfall och återvinning
 
 Soprum finns i källaren vid Götgatsingången. Enklaste sättet att ta sig dit är att gå ut på gården och ta första dörren till vänster. Ta sedan första dörren till vänster och där hittar du sop-/återvinningsrum.
  
-
 Återvinningsstation
 
 För större emballage finns en återvinningsstation finns på Ragvaldsgatan mot Maria kyrka. Gå vänster på Sankt Paulsgatan när du kommer ut från porten och ta sedan första bilvägen till höger. Det är c:a 200 meter att gå.
-
 
 Trådlöst nät
 
@@ -256,78 +225,96 @@ Lösenord till nätverket Signific är failharder
 
 Espressomaskinen
 Mjölk och mjölkmodulen till kaffemaskinen står i den blåa kylen i pentryt. För att göra drycker med mjölk:
-
+Skjut in modulen i kontakten till vänster
 Skjut in modulen i kontakten till vänster
 
+    Skjut in modulen i kontakten till vänster
+
+Montera mjölkkanalen så att den positioneras så att mjölken khamnar i koppen (du kan behöva trycka lite)
 Montera mjölkkanalen så att den positioneras så att mjölken khamnar i koppen (du kan behöva trycka lite)
 
+    Montera mjölkkanalen så att den positioneras så att mjölken khamnar i koppen (du kan behöva trycka lite)
+
+Välj dryck
 Välj dryck
 
-Efter tillredning, välj rengöring av mjölkkanal, placera en kopp eller tillbringarare under för att samla upp rengöringsvattnet
+    Välj dryck
+
+    Efter tillredning, välj rengöring av mjölkkanal, placera en kopp eller tillbringarare under för att samla upp rengöringsvattnet
 
 För att rengöra maskinen och tömma sumpbehållaren: lås upp genom knappen till höger om kaffemaskinen, sedan kan du dra ut de moduler du vill rengöra. 
 
 Flipperspelet
 
 En stänger av och på med ett reglage under själva spelet lite till höger. Eftersom spelet låter en hel del försöker vi spela mellan kl 12-13 samt efter kl 17.
-
 Bra att stänga av spelet när vi inte spelar då det även låter då.
-
 
 Skrivaren
 
 För att skriva ut från dator behöver en vara ansluten till Significs Wifi. Via telefon behöver en installera appen "Epson iPrint" och connecta till skrivaren via bluetooth. Går även att mejla skrivaren med bilaga för utskrift till följande adress: thv1265x9yq3n6@print.epsonconnect.com 
-
 Om utskriften blir suddig eller oregelbunden, kolla först om bläcket inte är slut. Om bläcket har okej nivå testa att skriva ut en provutskrift från skrivarens displaymeny. Efter utskriften är färdig, välj att utskriften blev dålig och då startar skrivaren ett rengöringsprogram som tar c:a tre minuter.
 
 
 Boka workshoprummet 
 
 Boka gärna workshoprummet "Code bar" på kontoret för att hosta workshop/möte med kollegor från uppdraget. 
-
-
-Boka ditt möte och lägg till “WS-rummet: codebar” som rum i google kalender.  (optimalt max-antal 8 pers, funkar med 10 pers, men blir tight) 
-
-   2.  Om något speciellt behöver finnas i rummet: Meddela Frida/Lovisa. 
-
-  3.  Om fika önskas: meddela Frida/Lovisa vilken tid och vad + eventuella allergier/specialkost bland deltagare.
-
-
+    Boka ditt möte och lägg till “WS-rummet: codebar” som rum i google kalender.  (optimalt max-antal 8 pers, funkar med 10 pers, men blir tight) 
+    Om något speciellt behöver finnas i rummet: Meddela Frida/Lovisa. 
+    Om fika önskas: meddela Frida/Lovisa vilken tid och vad + eventuella allergier/specialkost bland deltagare.
 
 Boka och häng på signific-kontoret under kväll/helg
 
 Det går också fint att boka kontoret för privata sammankomster under tider då vi inte är på kontoret.
 
-
 Hur:
 
 Kontoret bokas i google-kalendern genom att:
+Kontoret bokas i google-kalendern genom att:
+
+    Kontoret bokas i google-kalendern genom att:
 
 I bokningsvyn: Välj dag och tid och bjud in lovisa@signific.se som gäst
+I bokningsvyn: Välj dag och tid och bjud in lovisa@signific.se som gäst
+
+    I bokningsvyn: Välj dag och tid och bjud in lovisa@signific.se som gäst
 
 I bokningsvyn: Välj “kontoret kväll/helg” under “rum”
+I bokningsvyn: Välj “kontoret kväll/helg” under “rum”
+
+    I bokningsvyn: Välj “kontoret kväll/helg” under “rum”
 
 Invänta bekräftelse från mig (så att det inte krockar med något event här på kontoret)
+Invänta bekräftelse från mig (så att det inte krockar med något event här på kontoret)
 
-Skriv i #kontoret
+    Invänta bekräftelse från mig (så att det inte krockar med något event här på kontoret)
+
+    Skriv i #kontoret
 
 
 
 Förhållningsregler:
 
 Av + på - larmning 
+Av + på - larmning 
+
+    Av + på - larmning 
 
 Egen dryck + snacks medtas
+Egen dryck + snacks medtas
+
+    Egen dryck + snacks medtas
 
 Rimlig ljudvolym efter kl 22
+Rimlig ljudvolym efter kl 22
 
-Städa undan skräp efter dig/er
+    Rimlig ljudvolym efter kl 22
+
+    Städa undan skräp efter dig/er
 
 
 Säkerhet:
 
 Extra viktigt att vi tar med oss datorer/värdesaker hem alternativt låser in det i säkerhetsskåpet på kontoret över natt/helg. 
-
 Var säker på att det inte kommer in obehöriga i kontor/trapphus
 
  
@@ -363,16 +350,13 @@ Demio - Plattform för planering och genomförande av webinar
 
 Inlogg: Hej@signific.se / Hypercurve3!
 
-
 Utbildning & kurser  (exempel)
 
 Datacamp - Läroplattform med kurser inom R, Python & Data Science
 
 Inlogg: Hej@signific.se / failhard3r!
 
-
 Cloud Guru -  Läroplattform för Cloud (programmering och infrastructure as code)
-
 
 
 Övrigt (exempel)
@@ -381,13 +365,9 @@ Mural - Digital arbetsplats för visuellt samarbete
 
 Inlogg: Hej@signific.se / hypercurve3! 
 
-
-
-
 Psst..
 
 Saknar du något? Kolla med Lovisa!
-
 
 Inköp
 Generellt gäller att allt som förenklar din arbetsmiljö och ger dig energi är okej att köpa in utan att du behöver stämma av med din chef. Vid större kostnader bör du stämma av innan inköp.
@@ -491,7 +471,6 @@ Skriva artiklar/inlägg
 Spela in videomaterial
 
 Maximalt utbetalas 15 000 SEK per år i marknadsföringsbonus. 
-
 
 Föräldralön
 En del arbetsgivare erbjuder t.ex. utfyllnad med 10% av ens lön vid föräldraledighet.
@@ -693,19 +672,11 @@ Uppföljningsmöte/retrospektiv
 Alkohol- och drogpolicy
 Nolltolerans gäller för alkohol- och drogpåverkan på arbetsplatsen. Detta innebär att alla medarbetare är nyktra på arbetstid samt avstår från all icke medicinsk användning av narkotikaklassade preparat. 
 
-
-
 Undantag från regeln om nolltolerans får förekomma på jobbtillställningar efter arbetstid såsom after work, fredagsöl, personalfester och vid representation. Den som ansvarar för tillställningen ska då se till att alkoholfria alternativ finns. 
-
-
 
 Vad gäller representation och andra möten i tjänsten ska ingen anställd behöva dricka alkohol – d.v.s. alkohofria alternativ ska alltid finnas. 
 
-
-
 Såväl chefer som medarbetare har ansvar för att uppmärksamma tidiga signaler och påtala misskötsamhet/störningar. Medarbetare med missbruk är skyldig att medverka i sin egen rehabilitering, annars riskeras en omprövning av anställningen.
-
-
 
 En trygg arbetsplats
 Signific ska vara en trygg arbetsplats. Det uppnår vi genom att vi är varandras arbetsmiljö. Arbetsmiljö är hur vi har det runt oss och hur vi behandlar varandra. På Signific ska råda ett professionellt, öppet och varmt arbetsklimat som uppnås genom gott samarbete mellan samtliga medarbetare och genom god stämning ge plats för olikheter samt att alla blir sedda och hörda.
@@ -758,10 +729,8 @@ Uppsägning personliga skäl
 Avsked
 
 
-
 Skyddsombud
 Emma har utsetts till skyddsombud på Signific. Emma representerar alla anställda i frågor som rör den fysiska och psykosociala arbetsmiljön och är delaktig i diskussioner vid kontorsflytt, omorganisationen eller vid övriga händelser som berör anställdas tillvaro på Signific. 
-
 
 
 Signific uppskattar att du är aktiv i sociala medier
@@ -782,7 +751,7 @@ Om du ska genomföra ett större event, t.ex. projekt-kickoff eller middag, koll
 
 Alkoholfri representation gäller under kontorstid
 
- Resor
+Resor
 Signific strävar efter att resa klimatsmart, kostnadseffektivt och säkert inom tjänsten. Tjänsteresor är Significs överlägset största negativa klimatpåverkan.
 
 Allmänt gäller att välja det alternativ som:
@@ -815,54 +784,28 @@ Om du vill avsluta din anställning skall detta meddelas direkt till din chef. E
 
 Efter uppsägning
 
-
 Efter uppsägning bokas ett avstämningsmöte in med Lovisa för att gå igenom vilka praktiska moment som gäller fram till sista arbetsdag. 
-
 Intjänade semesterdagar: När du avslutar din anställning har du rätt att få ersättning för de semesterdagar som tjänats in, men som du eventuellt inte hunnit ta ut.
-
 Tjänstgöringsintyg: Om du varit anställd på Signific i minst 6 månader har du rätt till tjänstgöringsintyg av din chef. 
-
 Exitsamtal: För att ständigt förbättra Significs verksamhet genomför vi alltid ett exitsamtal några dagar innan sista anställningsdag.
-
 Arbetsredskap: De arbetsredskap som använts under anställningstiden återlämnas sista arbetsdag.  
 
-
 Google drive
+
 Onboardingpresentation (Om Signific, värderingar etc)
-
 Mall för Signific-layout på presentationer (till t.ex kompetendragningar internt eller övriga presentationer):  
-
 Tidigare kompetensdragningar
-
 Vad Signific gör och har gjort i olika kunduppdrag (pågående och avslutade) 
-
 Ladda ner Significs typsnitt 
-
 Ladda ner Significs doodlar
-
-
-Personalhandbok, tidrapportering, pulsmätning
-Significs hemsida 
-
-Wint (tidrappoirtering)
-
-&frankly (pulsmätningsverktyg)
-
 
 Marknad
 
 Demio (platform för Webinar)
-
 Signific på Youtube
-
 Signific på instagram"
 
-Personalhandboken (slut)
-
-
-
-
-
+Personalhandboken slut.
 
 
 
