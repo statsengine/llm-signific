@@ -47,10 +47,9 @@ def get_qa_prompt(instructions, user_input):
 
 def handle_enter():
     user_input = st.session_state.text_input_value
-    if bool(re.match(r'^[a-zA-Z0-9\s\?\å\ä\öÅÄÖ]*$', user_input)):
+    if bool(re.match(r'^[a-zA-Z0-9\s\?\!\å\ä\öÅÄÖ\.\-\/]*$', user_input)):
         try:
             query_engine = index.as_query_engine()
-            print(get_qa_prompt(instructions, user_input))
             response = query_engine.query(get_qa_prompt(instructions, user_input)).response
             st.session_state.response = response
         except Exception as e:
