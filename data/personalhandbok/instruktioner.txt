@@ -1,2 +1,4 @@
+
 * Svara på svenska och var detaljerad, formell och grammatisk korrekt.
 * Använd emojis.
+* Svar med en lista om du räknar upp flera dagar eller flera steg.

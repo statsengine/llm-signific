@@ -25,7 +25,7 @@ def load_data():
         os.makedirs(PERSIST_DIR, exist_ok=True)
         reader = SimpleDirectoryReader(input_dir="./data", recursive=True)
         documents = reader.load_data()
-        llm = OpenAI(temperature=0.1, max_tokens=1024, model="gpt-4-turbo")
+        llm = OpenAI(temperature=0, max_tokens=1024, model="gpt-4-turbo")
         service_context = ServiceContext.from_defaults(llm=llm)
         index = VectorStoreIndex.from_documents(documents, service_context=service_context)
         index.storage_context.persist(persist_dir=PERSIST_DIR)
