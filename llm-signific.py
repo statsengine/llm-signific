@@ -4,13 +4,15 @@ import regex as re
 from llama_index.core import (
     VectorStoreIndex,
     SimpleDirectoryReader,
-    ServiceContext,
+    Settings,
     StorageContext,
     load_index_from_storage
 )
 from llama_index.llms.openai import OpenAI
+from llama_index.embeddings.openai import OpenAIEmbedding
+from llama_index.core.node_parser import SentenceSplitter
 
-invalid_question_response = 'Jag kunde inte tolka din fråga, var god försök igen'
+invalid_question_response = 'Jag kunde inte tolka din fråga, var god försök igen.'
 
 with open('./data/personalhandbok/instruktioner.txt', 'r') as file:
     instructions = file.read()
@@ -19,15 +21,18 @@ tab1, tab2 = st.tabs(["Personalhandbokshjälpare", "TBA"])
 
 @st.cache_resource(show_spinner=False)
 def load_data():
-    PERSIST_DIR = "./storage/personalhandbok"
+    PERSIST_DIR = "./storage/personalhandbok_cleaned"
 
     if not os.path.exists(PERSIST_DIR):
         os.makedirs(PERSIST_DIR, exist_ok=True)
-        reader = SimpleDirectoryReader(input_dir="./data", recursive=True)
+        reader = SimpleDirectoryReader(input_dir="./data/personalhandbok/clean", recursive=True)
         documents = reader.load_data()
-        llm = OpenAI(temperature=0, max_tokens=1024, model="gpt-4-turbo")
-        service_context = ServiceContext.from_defaults(llm=llm)
-        index = VectorStoreIndex.from_documents(documents, service_context=service_context)
+
+        Settings.llm = OpenAI(model="gpt-4")  
+        Settings.embed_model = OpenAIEmbedding(model="text-embedding-ada-002")  
+        Settings.node_parser = SentenceSplitter(chunk_size=512, chunk_overlap=20)
+
+        index = VectorStoreIndex.from_documents(documents)
         index.storage_context.persist(persist_dir=PERSIST_DIR)
     else:
         storage_context = StorageContext.from_defaults(persist_dir=PERSIST_DIR)
@@ -49,7 +54,7 @@ def handle_enter():
     user_input = st.session_state.text_input_value
     if bool(re.match(r'^[a-zA-Z0-9\s\?\!\å\ä\öÅÄÖ\.\-\/]*$', user_input)):
         try:
-            query_engine = index.as_query_engine()
+            query_engine = index.as_query_engine()  
             response = query_engine.query(get_qa_prompt(instructions, user_input)).response
             st.session_state.response = response
         except Exception as e:
@@ -68,5 +73,5 @@ with tab1:
         st.write(st.session_state.response)
 
 with tab2:
-   st.header("")
-   st.title("TBA :mage:")
+    st.header("")
+    st.title("TBA :mage:")

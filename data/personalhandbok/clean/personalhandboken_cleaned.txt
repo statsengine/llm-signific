@@ -1,0 +1,322 @@
+Självklart! Här är en mer utförlig version av personalhandboken för Signific, som inkluderar fler detaljer och specifika instruktioner.
+
+---
+
+# Personalhandbok för Signific
+
+## Arbetsvecka
+- **Arbetstimmar:** En arbetsvecka är 40 timmar. Arbetstiderna är flexibla och kan anpassas utifrån kunders behov och arbetsbelastning.
+
+---
+
+## Semester
+
+### Semesterår
+- **Tidsperiod:** Semesteråret löper från den 1 januari till den 31 december. 
+
+### Intjänande
+- **Semesterdagar:** Du tjänar in 2,5 semesterdagar per månad. Exempel: Om du avslutar din anställning den 31 augusti har du rätt till 20 semesterdagar det året (2,5 dagar x 8 månader).
+
+### Minimiuttag
+- **Årsrätt:** Du måste ta ut minst 20 semesterdagar per år. Det är viktigt att sträva efter att ta ut minst fyra veckor semester, varav tre bör tas under sommarmånaderna.
+
+### Sparande
+- **Sparade dagar:** Resterande dagar kan sparas i upp till 5 år. För att kunna använda sparade dagar måste årets dagar först tas ut. Använd de äldsta sparade dagarna först efter att årets dagar har använts.
+
+### Överskridande dagar
+- **Godkännande:** Dagar utöver semesterrätten måste godkännas av närmaste chef.
+
+### Semesteruttag
+1. Stäm av med din chef.
+2. Informera andra som kan påverkas av din semester (kund, teammedlemmar).
+3. Vänta på godkännande från din chef.
+
+---
+
+## Sjukdom
+
+### Meddelande
+- Vid sjukdom är det viktigt att du informerar din närmaste chef och ser till att berörda parter (t.ex. kund eller projektledare) meddelas.
+
+### Tidrapportering
+- **Koder:** Använd koden "Sjukdom" i Wint. För vård av sjuka barn använder du koden "Vård av barn" endast om du får ersättning från Försäkringskassan.
+
+### Karensavdrag
+- Du får ett karensavdrag på 20 % av din veckoarbetstid. Om du arbetar heltid innebär detta ett avdrag för de första 8 timmarna av din sjukperiod. Efter dessa 8 timmar betalar Signific ut 80 % av din lön fram till dag 14.
+
+### Läkarintyg
+- Från och med den 8:e sjukdagen krävs ett läkarintyg, som ska lämnas till din chef och/eller HR. Om du är sjuk längre än 14 dagar ska intyget även skickas till Försäkringskassan.
+
+### Långtidssjukskrivning
+- Signific har en särskild försäkring som träder i kraft efter 90 dagar, vilket ger sjukersättning motsvarande 90 % av din lön (exklusive eventuella bonusar).
+
+---
+
+## Lediga dagar
+
+### Röda dagar
+- Du är ledig på alla röda dagar enligt svensk kalender. Dagen före röda dagar är halvdag. Julafton, midsommarafton och nyårsafton är även lediga dagar.
+
+### Lediga dagar 2024
+- **1 januari:** Nyårsdagen (heldag) 
+- **5 januari:** Dagen före trettondag jul (halvdag)
+- **28 mars:** Skärtorsdagen (halvdag)
+- **29 mars:** Långfredagen (heldag)
+- **1 april:** Annandag påsk (heldag)
+- **30 april:** Dagen före första maj (halvdag)
+- **1 maj:** Första maj (heldag)
+- **8 maj:** Dagen före kristi himmelsfärd (halvdag)
+- **9 maj:** Kristi Himmelsfärd (heldag)
+- **5 juni:** Dagen före Sveriges nationaldag (halvdag)
+- **6 juni:** Sveriges nationaldag (heldag)
+- **1 november:** Dagen före alla helgons dag (halvdag)
+- **25 december:** Juldagen (heldag)
+- **26 december:** Annandag jul (heldag)
+
+---
+
+## Begravning
+
+- Vid begravning av nära anhörig (sambo, make/maka, föräldrar, syskon osv.) har du rätt till en arbetsdag ledighet utan löneavdrag.
+
+---
+
+## Föräldraledighet
+
+### Rättigheter
+- Du har rätt till föräldraledighet fram till barnet fyller 18 månader. Anmäl ledighet minst två månader i förväg.
+
+### Antal tillfällen
+- Laglig rätt till tre separata tillfällen under ett år. Fler tillfällen kräver godkännande av din chef.
+
+### Tidigare återkomst
+- Du kan återkomma till arbetet tidigare än avtalat med en månads varsel. För senare återkomst krävs två månaders varsel.
+
+### Semesterintjäning
+- Under viss del av föräldraledigheten tjänar du in semester. 120 dagar av föräldraledigheten är semesterlönegrundande.
+
+---
+
+## Tjänstledighet
+
+- Ansök om tjänstledighet minst tre månader i förväg. Under tjänstledighet förlorar du motsvarande 2,5 semesterdagar för varje månad du är ledig.
+
+---
+
+## Övertid
+
+### Ersättning
+- Övertidsersättning utgår normalt inte. Det kan dock ges vid specifika kundkrav, och godkännande av chef krävs i förväg.
+
+### Kvalificerad övertid
+- **Tider för särskild ersättning:**
+  - Lördagar, söndagar och helgdagar.
+  - Vardagar mellan 22:00 och 06:00.
+
+---
+
+## Tidrapportering
+
+- **System:** Tidrapportering sker i Wint. Använd webbgränssnittet eller mobilappen för att rapportera tid.
+
+### Steg för tidrapportering i app:
+1. Logga in med ditt personnummer och verifiera med BankID.
+2. Välj "Tidrapportering" > "Vecka" > "Redigera" > "Dag".
+3. Fyll i antal timmar och välj projekt/avvikelse.
+4. Spara och lås veckan.
+
+---
+
+## Arbetsuppgifter utan uppdrag
+
+- Samordna med din chef om arbetsuppgifter och kontorsnärvaro under perioder utan uppdrag.
+
+### Exempel på arbetsuppgifter:
+- Uppdatera och förbättra din konsultprofil.
+- Förbättra kunskaper genom självstudier eller kurser.
+- Stötta HR-kontoret eller säljavdelningen vid behov.
+
+---
+
+## Kontoret
+
+### Internet (WiFi)
+- Nätverket heter Signific
+- Lösenordet till wifi är failharder
+
+### Städning
+- Kontoret städas måndagar av Hemfrid. 
+
+### Säkerhet
+- Larma och lås kontoret vid avgång. 
+- **Larmkod:** 3689 (knappa in fyrsiffrig kod och se till att dörrar låses ordentligt).
+
+---
+
+## Trivsel
+
+- Dela ansvaret för att hålla rent och snyggt på kontoret. Använd återvinningskärl och se till att diska och städa efter dig.
+
+---
+
+## Ljudsystemet
+
+- **Sonos:** Vi använder Sonos som högtalarsystem. 
+  - **Inloggning:** 
+    - Användarnamn: hej@signific.se
+    - Lösenord: hypercurve3!
+
+---
+
+## Terminalglasögon
+
+- **Kostnad:** Signific bekostar terminalglasögon och synundersökningar för anställda som arbetar mycket framför bildskärm.
+
+---
+
+## Utrustning och Inköp
+
+- **Köpriktlinjer:** Du kan köpa in utrustning som tangentbord, hörlurar etc., och lämna in kvitto för ersättning. 
+- **Större kostnader:** Kontakta Lovisa för godkännande innan större inköp.
+
+---
+
+## Prenumerationer
+
+### Viktiga Prenumerationer
+1. **Breakit:** Nyhetssajt om techbolag och startups. 
+   - **Inlogg:** Kontakta Lovisa för aktiveringslänk.
+  
+2. **DI Digital:** Nyheter om digitala affärer och tech. 
+   - **Inlogg:** hej@signific.se / hypercurve3!
+  
+3. **Demio:** Plattform för planering och genomförande av webinar. 
+   - **Inlogg:** hej@signific.se / hypercurve3!
+
+4. **Datacamp:** Läroplattform med kurser inom R, Python & Data Science. 
+   - **Inlogg:** hej@signific.se / failhard3r!
+
+5. **Cloud Guru:** Läroplattform för Cloud (programmering och infrastructure as code).
+
+6. **Mural:** Digital arbetsplats för visuellt samarbete. 
+   - **Inlogg:** hej@signific.se / hypercurve3!
+
+---
+
+## Utlägg
+
+### Viktiga uppgifter för kvitton:
+- **Inköpsdatum**
+- **Moms**
+- **Totalsumma**
+- **Vad som köpts**
+- **Kostnadsställe**
+
+**Notera:** För belopp över 4 000 SEK måste Significs organisationsnamn (Sgnfc AB) och organisationsnummer (559264-5922) skrivas ut på kvittot.
+
+---
+
+## Lön
+
+### Utbetalning
+- **Lön:** Utbetalas den 25:e varje månad. Lönespecifikation skickas via e-post.
+
+### Lönerevision
+- **Initiering:** Lönerevisionen initieras den 1 januari varje år baserat på marknadsläget och prestationer.
+
+---
+
+## Pensionslösningar
+
+### Tjänstepension
+- **Avsättning:** Pensionsavsättning sätts in med 7 % av bruttolön (exklusive bonusar) för alla anställda.
+- **Undantag:** Inga avsättningar görs under föräldraledighet eller tjänstledighet.
+
+---
+
+## Friskvårdsbidrag
+
+### Bidrag
+- **Belopp:** Friskvårdsbidrag på 5 000 SEK per år. 
+- **Utnyttjande:** Potten proportioneras efter anställningstid om du börjar eller slutar under året. Du som är föräldraledig kan utnyttja potten som vanligt, medan du som är tjänstledig inte kan utnyttja potten under ledigheten.
+
+---
+
+## Jämställdhetspolicy
+
+- **Mångfald:** Lika lön för lika prestationer och aktivt arbete för en jämn könsfördelning.
+
+---
+
+## Alkohol- och drogpolicy
+
+- **Nolltolerans:** Gäller på arbetsplatsen, med undantag för vissa evenemang.
+
+---
+
+## Skyddsombud
+
+- **Skyddsombud:** Emma är utsedd som skyddsombud och representerar anställda i frågor rörande arbetsmiljön.
+
+---
+
+## Resor
+
+### Tjänsteresor
+- **Tåg:** Första valet för resor, särskilt inom Sverige. Interna resor över 5 000 SEK kräver godkännande av chef.
+
+### Traktamente
+- **Ersättning:** Traktamente ersätter merkostnader för mat och andra utgifter vid övernattning. 
+
+---
+
+## Meddelande vid avslut av anställning
+
+- **Uppsägning:** Meddela uppsägning direkt till din chef och följ upp med skriftlig bekräftelse via mejl. Uppsägningstid står i ditt anställningskontrakt.
+
+---
+
+## Efter uppsägning
+
+### Avstämningsmöte
+- Bokas med Lovisa för att diskutera praktiska moment fram till sista arbetsdag.
+
+### Tjänstgöringsintyg
+- Rätt till intyg efter minst 6 månader.
+
+### Exitsamtal
+- Genomförs några dagar innan sista arbetsdag för feedback och förbättring.
+
+### Återlämning av arbetsredskap
+- Återlämna alla arbetsredskap sista arbetsdag.
+
+---
+
+## Google Drive
+
+### Resurser
+- **Onboardingpresentation:** Information om Signific, värderingar och kultur.
+- **Mall:** För Signific-layout på presentationer.
+- **Typsnitt och doodlar:** Ladda ner material för användning i presentationer.
+
+---
+
+## Säkerhet och Stölder
+
+- **Förebyggande:** Undvik att lämna värdesaker över natten, t.ex. datorer och mobiltelefoner.
+- **Besökare:** Kontrollera alltid identiteten på besökare och följ dem till deras mål.
+
+---
+
+## Brandsäkerhet 
+
+- **Utrymning:** Följ stegen vid brand:
+  1. Rädda dig själv och andra.
+  2. Varning för personer i fara.
+  3. Larma räddningstjänst 112.
+  4. Släck branden om möjligt.
+
+### Utrustning
+- **Släckare:** Det finns tre pulversläckare på kontoret samt brandfilt i det stora köket.
+
+---
